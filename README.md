@@ -1,3 +1,4 @@
+#Une application web en Angular qui permet de metrre de taches à faire et il est possible de démander a L'IA comment faire la taches en question!
 # TodoAngularr
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.6.
